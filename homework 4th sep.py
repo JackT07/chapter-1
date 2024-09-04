@@ -1,0 +1,12 @@
+print("   X")
+print("   X ")
+print("XXXXXXX")
+print("   X")
+print("   X")
+
+print("\\    /")
+print(" \\  /")
+print("  \\/")
+print("  /\\")
+print(" /  \\")
+print("/    \\")
