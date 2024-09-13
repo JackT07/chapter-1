@@ -1,0 +1,61 @@
+# Task 1-10
+personName = "Charlie"
+favorite_colour = "green"
+print("hi", personName ,"your favorite colour is", favorite_colour)
+print("goodbye", personName)
+print("\n")
+# task 2 
+#personName = input("Enter your name:") 
+#favorite_colour = input("Enter favorite colour:") 
+print ("Hi", personName ," your favourite colour is ", favorite_colour)
+print ("Goodbye" , personName) 
+
+#task 3
+print("\n")
+#variables stored and record information
+#they are temporary
+
+#task 4
+goals = 0 
+goals = goals + 1 
+print ("The value Of goal",goals)
+#incremence goals
+print("\n") 
+answer = 1+2 
+print (answer)  
+valuel = answer+3 
+value2 = 1+2+3 
+print (valuel, value2)
+#prints the list of values
+print("\n")
+a = 10
+b = 5
+temp = a
+a = b
+temp = b
+
+print("\n")
+accountBalance = 1000 
+withdrawalamount = 600 
+accountBa1ance = accountBalance - withdrawalamount
+print(accountBa1ance)
+# calculates account balance
+print("\n")
+days = 2
+hours = 24
+minutes = 60
+total = days*hours*minutes
+print(total)
+# calculates minutes in days
+print("\n")
+#task 5
+#year = int(input("the current year"))
+#age = int(input("What age will you be this year"))
+#birthyear = year - age
+#print ("you were born in", birthyear)
+print("\n")
+#task 6
+#programe to convert c to fraenheit
+centigrade = float(input("enter the tempeture in celsius:"))
+fahrenheit = (9/5 * centigrade + 32)
+print(centigrade ,"degrees C equales", fahrenheit, "degrees F")
